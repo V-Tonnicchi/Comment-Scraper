@@ -14,7 +14,7 @@ public class Reader
     {
         ArrayList<String> returnList = new ArrayList<>();
         Scanner scan = new Scanner(new File(src));
-        // TODO: Logik für das seperieren der comments in Strings, Elemente getrennt mit komma.
+        // TODO: Logik für das seperieren der comments in Strings, Elemente getrennt mit komma oder Zeilenumbruch.
 
         
 

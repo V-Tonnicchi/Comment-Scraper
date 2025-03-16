@@ -9,6 +9,6 @@ public class Writer
 
     public void ExcelWrite(ArrayList<String> comments)
     {
-        //TODO: Logik um Kommentare in Excel Datei umzuschreiben
+        //TODO: Logik um Kommentare in Excel Datei umzuschreiben 
     }
 }
